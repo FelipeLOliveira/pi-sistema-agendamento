@@ -1,5 +1,3 @@
-# pi-sistema-agendamento
-
 # Projeto Integrador – Sistema de Agendamento
 
 Este repositório contém os arquivos do Projeto Integrador do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
